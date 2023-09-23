@@ -37,6 +37,6 @@ converted_data = convert_fuel(data)
 
 for elem in data:
     print(elem)
-print()
+print("--------------------------")
 for elem in converted_data:
     print(elem)
